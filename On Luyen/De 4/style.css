@@ -1,0 +1,94 @@
+body {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 10px auto;
+}
+
+header {
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+.left li {
+    margin-bottom: 10px;
+}
+
+.left li a {
+    font-size: 13px;
+}
+
+.left {
+    width: 20%;
+    margin-top: 85px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.right {
+    width: 80%;
+}
+
+.r-top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nd {
+    width: 20%;
+    border: 1px solid rgb(200, 200, 200);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.nd div {
+    font-size: 11px;
+}
+
+p {
+    font-size: 13px;
+    font-weight: 550;
+}
+
+.r-bot {
+    margin-top: 100px;
+}
+
+table {
+    margin-top: 50px;
+    width: 100%;
+    border-collapse: collapse;
+    /* Chồng border bảng */
+}
+
+td {
+    width: 20%;
+    padding: 5px 0;
+    border-top: 1px solid rgb(214, 214, 214);
+    border-bottom: 1px solid rgb(214, 214, 214);
+    border-left: none;
+    border-right: none;
+    font-size: 13px;
+
+    text-align: center;
+}

@@ -1,0 +1,90 @@
+body{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 10px auto;
+}
+
+header{
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+
+.left li{
+    margin-bottom: 10px;
+}
+
+.left li a{
+    font-size: 13px;
+}
+
+.left{
+    width: 20%;
+    margin-top: 85px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.right{
+    width: 80%;
+}
+
+.noi-dung{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nd{
+    display: flex;
+}
+
+.r-top{
+    width: 80%;
+    margin-bottom: 100px;
+}
+
+.nd img{
+    height: 130px;
+}
+
+
+.nd{
+    align-items: center;
+}
+
+.noi-dung-2{
+    display: flex;
+    width: 100%;
+}
+
+.nd2{
+    width: 33%;
+}
+
+span{
+    font-size: 11px;
+    color: gray;
+    margin-left: 10px;
+}
+

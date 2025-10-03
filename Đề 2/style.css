@@ -1,0 +1,41 @@
+body {
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+header .top {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+main {
+    margin-top: 50px;
+}
+
+.side {
+    display: flex;
+}
+
+.left {
+    padding-top: 100px;
+}
+
+.left {
+    width: 20%;
+}
+
+.right {
+    width: 80%;
+    padding-right: 100px;
+}
+
+.ds {
+    list-style-type: none;
+}
+
+.left ul li {
+    padding: 5px;
+}
